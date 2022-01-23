@@ -1,0 +1,24 @@
+{
+  "name": "@meathill/unrar",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "unrar": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Meathill",
+    "email": "meathill@gmail.com",
+    "url": "https://meathill.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "unrar-promise": "^3.0.0-1",
+    "yargs": "^17.3.1"
+  },
+  "type": "module"
+}
